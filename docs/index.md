@@ -9,12 +9,19 @@ We are going to be learning the basic words, and the basics to creating a conver
 This format will be used for our learning during the entire course.
 
 Hi - Hej
+
 Hello - Hallå
+
 Bye - Hejdå (you can also use Adjö)
+
 Good morning - Godmorgon
+
 Good night - Godnatt
+
 Night - Natt
+
 Morning - Morgon
+
 Day - Dag
 
 
