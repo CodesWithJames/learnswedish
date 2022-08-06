@@ -1,12 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to Learn Swedish
 
-You can use the [editor on GitHub](https://github.com/CodesWithJames/learnswedish/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+In the first page of the course we are going to be learning the basics of Swedish.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We are going to be learning the basic words, and the basics to creating a conversation. Pronunciation will come last
 
-### Markdown
+### Basic words
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This format will be used for our learning during the entire course.
+
+Hi - Hej
+Hello - Hallå
+Bye - Hejdå (you can also use Adjö)
+Good morning - Godmorgon
+Good night - Godnatt
+Night - Natt
+Morning - Morgon
+Day - Dag
+
+
 
 ```markdown
 Syntax highlighted code block
